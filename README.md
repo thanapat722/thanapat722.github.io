@@ -1,1 +1,0 @@
-# thanapat722.github.io
