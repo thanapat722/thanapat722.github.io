@@ -218,7 +218,7 @@
 		color: #313f47;
 		line-height: 1.5;
 		margin: 0 0 0.75em 0;
-		font-weight: bold;
+		
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -230,6 +230,7 @@
 		font-size: 1.85em;
 		letter-spacing: 0.1em;
 		margin: 0 0 0.525em 0;
+		font-weight: bold;
 	}
 
 	h2 {
@@ -778,14 +779,14 @@
 					font-weight: 400;
 				}
 
-				ul.icons li a:before {
-					/* color: #4b1f1f; */
-					/* text-shadow: 1.25px 0px 0px #c8cccf, -1.25px 0px 0px #c8cccf, 0px 1.25px 0px #c8cccf, 0px -1.25px 0px #c8cccf; */
+				/* ul.icons li a:before {
+					color: #4b1f1f;
+					text-shadow: 1.25px 0px 0px #c8cccf, -1.25px 0px 0px #c8cccf, 0px 1.25px 0px #c8cccf, 0px -1.25px 0px #c8cccf;
 				}
 
 				ul.icons li a:hover:before {
-					/* text-shadow: 1.25px 0px 0px #0084ff, -1.25px 0px 0px #0084ff, 0px 1.25px 0px #0084ff, 0px -1.25px 0px #0084ff; */
-				}
+					text-shadow: 1.25px 0px 0px #0084ff, -1.25px 0px 0px #0084ff, 0px 1.25px 0px #0084ff, 0px -1.25px 0px #0084ff;
+				} */
 
 				ul.icons li a:before {
 					position: absolute;
